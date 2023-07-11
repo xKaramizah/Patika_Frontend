@@ -1,0 +1,57 @@
+body {
+    text-align: center;
+}
+
+main {
+    width: 90vw;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#sbar {
+    width: 400px;
+}
+
+.card-1 {
+    height: 50px;
+    width: 97.8%;
+    background-color: #EEEE;
+    padding: 1%;
+    margin: 0.1%;
+}
+
+.card-2 {
+    height: 70px;
+    width: 31.1%;
+    background-color: #7EE5DA;
+    padding: 1%;
+    margin: 0.1%;
+    float: left;
+}
+
+.card-3 {
+    height: 70px;
+    width: 31.2%;
+    background-color: #70CCC2;
+    padding: 1%;
+    margin: 0.1%;
+    float: left;
+}
+
+.card-4 {
+    height: 70px;
+    width: 31.1%;
+    background-color: #62B3AA;
+    padding: 1%;
+    margin: 0.1%;
+    float: left;
+}
+
+.clear {
+    clear: both;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+  }
